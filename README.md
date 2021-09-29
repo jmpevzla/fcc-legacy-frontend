@@ -12,3 +12,9 @@ My Solutions for legacy frontend certification challenges
 - Using Vue3, SCSS, BEM, font-awesome
 
 <a href="https://codepen.io/jmaperez/full/YzQLwvy"><img src="https://user-images.githubusercontent.com/87162909/134008760-a5b6a48b-2aa6-4711-86af-305bbe04ac5a.png" width="500"></a>
+
+3.- **Build Wikipedia Viewer**
+
+- Using Vue3 components. SCSS, BEM, font-awesome, Wikipedia Api
+
+<a href="https://codepen.io/jmaperez/full/vYZbJqe"><img src="https://user-images.githubusercontent.com/87162909/135251901-76220eb6-3331-433b-b55e-7cf81f2eb0d1.png" width="500"></a>
