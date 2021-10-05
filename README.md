@@ -18,3 +18,11 @@ My Solutions for legacy frontend certification challenges
 - Using Vue3 components. SCSS, BEM, font-awesome, Wikipedia Api
 
 <a href="https://codepen.io/jmaperez/full/vYZbJqe"><img src="https://user-images.githubusercontent.com/87162909/135251901-76220eb6-3331-433b-b55e-7cf81f2eb0d1.png" width="500"></a>
+
+4.- **Build Tic Tac Toe Game**
+
+- Using Svelte
+
+- [repo github](https://github.com/jmpevzla/fcc-tic-tac-toe)
+
+<a href="https://codepen.io/jmaperez/full/QWgXNpQ"><img src="https://user-images.githubusercontent.com/87162909/135953439-e1a53458-ee21-4c63-af02-e091e27b24ed.png" width="500"></a>
