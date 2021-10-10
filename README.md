@@ -13,6 +13,11 @@ My Solutions for legacy frontend certification challenges
 
 <a href="https://codepen.io/jmaperez/full/YzQLwvy"><img src="https://user-images.githubusercontent.com/87162909/134008760-a5b6a48b-2aa6-4711-86af-305bbe04ac5a.png" width="500"></a>
 
+- Using Vue3, SCSS, BEM, font-awesome, nodeJS, express, Twitch Outh2 Api
+
+<a href="https://twitch-vercel.vercel.app"><img src="https://user-images.githubusercontent.com/87162909/136684838-7be04267-5f7d-4770-b47f-124157c119f1.png" width="500"></a>
+
+
 3.- **Build Wikipedia Viewer**
 
 - Using Vue3 components. SCSS, BEM, font-awesome, Wikipedia Api
